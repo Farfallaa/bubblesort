@@ -1,5 +1,7 @@
 package bubblesort;
 
+//this is a classic bubble-sort example with details on each run of the loop.
+
 import java.util.Arrays;
 
 public class BubbleSort {
